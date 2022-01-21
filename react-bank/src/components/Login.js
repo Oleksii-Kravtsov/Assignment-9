@@ -1,7 +1,7 @@
 // Login.js
 import React, { Component } from 'react'
 import {Navigate } from 'react-router-dom'
-
+import {Link} from 'react-router-dom'
 
 class LogIn extends Component {
   constructor () {
